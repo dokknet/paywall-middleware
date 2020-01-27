@@ -11,7 +11,7 @@ Currently only Cloudflare Workers are supported.
 
 Install with:
 
-`yarn install @dokknet/paywall-middleware`
+`npm install @dokknet/paywall-middleware`
 
 Then add this as your Cloudflare worker index.js:
 
